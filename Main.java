@@ -1,5 +1,4 @@
-# Q WAP to read employee details, calculate and display total salary of employee by adding HRA,DA,TAX
-
+// Q WAP to read employee details, calculate and display total salary of employee by adding HRA,DA,TAX
 
 import java.util.Scanner;
 
