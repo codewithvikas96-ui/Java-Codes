@@ -5,7 +5,7 @@
 // ├── mypack/
 // │      └── Calculator.java
 // │
-// └── Main.java
+// └── Arithmetic.java
 
 package mypack;
 
